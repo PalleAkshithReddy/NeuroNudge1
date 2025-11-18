@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://github.com/RohithMacharla11/emolearn/blob/main/src/assets/logo.jpg" alt="EMO_LEARN Logo" width="280" />
   
-  # EmoLearn
+  
+  # NeuroNudge
   
   <i>Multi-Modal Emotion Detection System Transforming Learning Through Emotion-Driven Innovation</i>
   
@@ -13,7 +13,7 @@
 </div>
 
 ---
-EmoLearn is an advanced AI-powered platform for real-time emotion detection and adaptive learning. By combining facial expression, voice tone, and mouse interaction analysis, it understands user engagement and mood to provide actionable insights. Whenever an emotion is detected, the AI assistant proactively appears to offer support, guidance, or encouragement tailored to the learner’s current state—whether they are confused, bored, or motivated. The assistant helps not only by providing motivation, but also through interactive games and targeted learning support, helping users understand concepts and guiding them toward their best learning condition. Through real-time, personalized interventions such as explanations, motivational messages, and engaging activities, EmoLearn Nexus ensures that help is always timely and relevant, making learning more effective, supportive, and adaptive to each individual's needs.
+NeuroNudge is an advanced AI-powered platform for real-time emotion detection and adaptive learning. By combining facial expression, voice tone, and mouse interaction analysis, it understands user engagement and mood to provide actionable insights. Whenever an emotion is detected, the AI assistant proactively appears to offer support, guidance, or encouragement tailored to the learner’s current state—whether they are confused, bored, or motivated. The assistant helps not only by providing motivation, but also through interactive games and targeted learning support, helping users understand concepts and guiding them toward their best learning condition. Through real-time, personalized interventions such as explanations, motivational messages, and engaging activities, NeuroNudge Nexus ensures that help is always timely and relevant, making learning more effective, supportive, and adaptive to each individual's needs.
 
 
 
