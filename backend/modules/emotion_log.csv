@@ -1,0 +1,22 @@
+timestamp,emotion,source
+2025-11-14 15:46:18,Bored,mouse
+2025-11-14 15:46:19,Engaged,mouse
+2025-11-14 15:46:31,Confused,mouse
+2025-11-14 15:46:56,Bored,mouse
+2025-11-14 15:47:02,Confused,mouse
+2025-11-14 15:47:17,Bored,mouse
+2025-11-14 15:48:02,Sleepy,mouse
+2025-11-14 15:52:46,Confused,facial
+2025-11-14 15:52:53,Face Not Detected,facial - no face (instant)
+2025-11-14 15:52:58,Confused,facial
+2025-11-14 15:53:04,Engaged,facial
+2025-11-14 15:53:11,Confused,facial
+2025-11-14 15:53:21,Frustrated,facial
+2025-11-14 15:53:41,Confused,facial
+2025-11-14 15:53:56,Engaged,facial
+2025-11-14 15:54:26,Frustrated,facial
+2025-11-14 15:54:39,Face Not Detected,facial - no face (instant)
+2025-11-14 15:54:44,Frustrated,facial
+2025-11-14 15:54:48,Face Not Detected,facial - no face (instant)
+2025-11-14 15:54:53,Confused,facial
+2025-11-14 15:55:12,Frustrated,facial
